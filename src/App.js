@@ -41,7 +41,7 @@ function App() {
    
     <div className="App">
        <Header/>
-      <h1>Empower Your Emotions with Personalized Motivational Quotes!</h1>
+      <h1>Empower Your Emotions with Personalized Motivational Quotes!!</h1>
       <div className="container">
     <div className="half">
       <div className="mood-selector">
