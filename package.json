@@ -1,5 +1,6 @@
 {
-  "name": "quote-generator",
+  "name": "quote-generator-AI-powered",
+  "homepage" : "https://b-izad.github.io/Quote-generator-by-AI",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
